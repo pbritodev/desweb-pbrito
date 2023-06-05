@@ -1,0 +1,5 @@
+div#minha_div{
+    background-color:green;
+    color:white;
+    width: 50%;
+    height: 10em;

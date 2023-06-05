@@ -1,0 +1,21 @@
+Python 
+Web page: https://www.python.org/downloads/
+Relação: O Python é uma linguagem de programacao que integra sistemas de forma inteligente. 
+É uma linguagem de programacao de alto nível sendo importante para um estudante conhecer a linguagem e a ferramenta. 
+
+GitHub
+Web page: https://github.com/
+Relação: É uma plataforma que permite o armazenamento de códigos fonte e arquivos. Ela também permite que os arquivos criados sejam compartilhados em qualquer lugar. 
+
+VsCode
+Web page: https://code.visualstudio.com/
+Relação:VsCode é uma ferramenta que possibilita programadores a criarem, escrever e editarem  códigos de softwares. 
+Dentro do curso de Analise de Desenvolvimento de Sistemas (ADS) considero ser de extrema importancia que eu aprenda a utilizar esta ferramenta e realize as principais atividades descrtas anteriormente.
+
+Sqlite Browser
+Web page: https://sqlitebrowser.org/
+Relação:É um banco de dados leve e prático podendo facilitar o trabalho de desenvolvedores. É de grande importancia na ADS aprender o funcionamento de banco de dados.
+
+Navegadores (Chrome)
+Web page: https://www.google.com/intl/pt-BR/chrome/
+Relação:É um navegador de internet que permite o usuario acessar informaçoes de outras partes da web. Será importante no curso para poder acessar paginas na Web, testar páginas desenvolvidas, dentre outras coisas.

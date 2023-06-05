@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <title>Titulo do documento da prova</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Esse é um cabeçalho de nível 1 - h1</h1>
+    <p>Esse é um parágrafo do documento. Lembrando que ele usa utf-8</p>
+    <input type = 'text'>
+    <button>Esse é um botão</button>
+    <input type = 'button' value = 'Esse é um botao'> //testar outro botão
+    <div id="minha_div"></div>
+</body>
+</html>
